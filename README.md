@@ -20,7 +20,7 @@ File Structure
 
 Setup
 
-Clone the repository:
+Download all files:
 
 Open index.html in a browser.
 
